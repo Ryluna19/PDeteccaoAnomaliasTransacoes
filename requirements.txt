@@ -1,8 +1,9 @@
 pandas
-numpy
+numpy<2.5
 matplotlib
 scikit-learn
 imbalanced-learn
 xgboost
+shap
 jupyter
 ipykernel
